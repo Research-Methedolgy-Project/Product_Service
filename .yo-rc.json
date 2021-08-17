@@ -36,6 +36,8 @@
     "nativeLanguage": "en",
     "packageFolder": "com/mycompany/myapp",
     "jwtSecretKey": "YmFkMmE1ZGYyMzY1ZmJjZGI0MWI2OWRlNDZiNzdmMDc0ODhhN2Y0ZjE5NjNmNzRmNTQxMmI2NWUyYTc2NzNmYTM5NGEyMGYyMzY4ZDgxYTc1YWEzZTIxMGYxMjQ5ZDY1ZThmMzQ3MTI2MjgwYTRjMmJjNDg1ODZmZjdkZTZhYjM=",
-    "languages": ["en", "fr"]
+    "languages": ["en", "fr"],
+    "lastLiquibaseTimestamp": 1629225474000,
+    "entities": ["Product"]
   }
 }
